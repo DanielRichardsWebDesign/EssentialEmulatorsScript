@@ -8,7 +8,7 @@ EMULATORS_SONY=("PS1" "PS2" "PS3" "PSP")
 EMULATORS_SEGA=("MASTER_SYSTEM" "GENESIS" "GAME_GEAR" "DREAMCAST")
 
 ##Show welcome message
-echo "Welcome to the Emulator Installer!"
+echo "Welcome to the Emulator Installer! Hello"
 
 echo "Type in nintendo, sony, or sega to install specific manufacturer emulators."
 
