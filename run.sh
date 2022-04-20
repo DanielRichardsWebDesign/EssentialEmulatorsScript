@@ -5,6 +5,7 @@
 ##Arrays for containing specific consoles - Will be used to install specific console emulators
 EMULATORS_NINTENDO=("NES" "SNES" "N64" "GAMECUBE/WII" "WIIU" "SWITCH" "GAMEBOY" "GBA" "NDS" "3DS")
 EMULATORS_SONY=("PS1" "PS2" "PS3" "PSP")
+EMULATORS_SEGA=("MASTER_SYSTEM" "GENESIS" "GAME_GEAR" "DREAMCAST")
 
 ##Show welcome message
 echo "Welcome to the Emulator Installer!"
